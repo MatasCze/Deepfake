@@ -14,7 +14,7 @@ Program posiada trzy główne funkcjonalności:
 Do łatwiejszego korzystania z funkcjonalności stworozono proste GUI.
 
 Użyte biblioteki:
-- Numpy!
+- Numpy
 - OpenCV
 - dlib
 - Tkinter
