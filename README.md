@@ -1,15 +1,15 @@
 Program posiada trzy główne funkcjonalności:
 - zamiana twarzy ze dwóch zdjęć
 
-<img src="readmeFiles/shanon-rock.png" width="200">
+<img src="readmeFiles/shanon-rock.png" width="400">
 
 - wykrywanie punktów charakterystycznych twarzy w czasie rzeczywistym z kamerki
 
-![points](https://user-images.githubusercontent.com/82163164/117654177-b2075300-b195-11eb-833a-a4d537b9a9cf.png)
+<img src="readmeFiles/points.png" width="400">
 
 - zamiana twarzy ze zdjęcia z twarzą z kamerki w czasie rzeczywistym.
 
-![swap](https://user-images.githubusercontent.com/82163164/117654189-b5024380-b195-11eb-8f1d-0c105d5b03ab.png)
+<img src="readmeFiles/swap.png" width="400">
 
 Do łatwiejszego korzystania z funkcjonalności stworozono proste GUI.
 
