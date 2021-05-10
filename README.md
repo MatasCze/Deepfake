@@ -13,6 +13,8 @@ Program posiada trzy główne funkcjonalności:
 
 Do łatwiejszego korzystania z funkcjonalności stworozono proste GUI.
 
+<img src="readmeFiles/gui.png" width="400">
+
 Użyte biblioteki:
 - Numpy
 - OpenCV
