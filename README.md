@@ -24,4 +24,4 @@ Użyte biblioteki:
 Aby program działał poprawnie należy mieć:
 - wersja Python 3.5 lub niższa
 - wyżej podane biblioteki
-- kamerka, jeśli chcemy skorzystać z funkcjonalności działających jedynie w czasie rzeczywistym
+- kamerka, jeśli chcemy skorzystać z funkcjonalności działających czasie rzeczywistym
